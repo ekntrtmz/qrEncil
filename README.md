@@ -13,7 +13,7 @@ node index.js
 ```
 ## Authors
 
-* **ekntrtmz** - *Initial work* - [PurpleBooth](https://github.com/ekntrtmz)
+* **ekntrtmz** - *Initial work* - [on github](https://github.com/ekntrtmz)
 
 
 ## License
