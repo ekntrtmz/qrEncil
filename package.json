@@ -1,0 +1,21 @@
+{
+  "name": "qrencil",
+  "version": "1.0.0",
+  "description": "Make your QR codes stencilproof by fragmentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "stencil"
+  ],
+  "author": "ekntrtmz",
+  "license": "ISC",
+  "dependencies": {
+    "convert-svg-to-png": "^0.4.0",
+    "fs": "0.0.1-security",
+    "magic-qr-code": "^1.0.3"
+  }
+}
