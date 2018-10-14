@@ -8,8 +8,12 @@ Make your QR codes stencilproof. Generates svg and png from string input.
 npm i
 ```
 
-```
-node index.js
+```javascript
+const {qrEncil} = require('./index.js');
+
+let qrContent = "Some content here";
+
+qrEncil(qrContent);
 ```
 ## Authors
 
