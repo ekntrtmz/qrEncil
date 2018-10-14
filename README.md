@@ -9,6 +9,7 @@ npm i
 ```
 
 ```javascript
+//  If calling from external file
 const {qrEncil} = require('./index.js');
 
 let qrContent = "Some content here";
