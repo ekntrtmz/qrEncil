@@ -5,6 +5,7 @@ Make your QR codes stencilproof. Generates svg and png from string input.
 ## Getting Started
 
 ```
+//  Needs Chromium for generating .png from .svg
 npm i
 ```
 
@@ -14,6 +15,7 @@ const {qrEncil} = require('./index.js');
 
 let qrContent = "Some content here";
 
+//  Outputs .svg and .png file
 qrEncil(qrContent);
 ```
 ## Authors
