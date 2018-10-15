@@ -1,6 +1,6 @@
 {
   "name": "qrencil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your QR codes stencilproof by fragmentation.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "magic-qr-code": "^1.0.3"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ekntrtmz/qrEncil"
+    "type": "git",
+    "url": "https://github.com/ekntrtmz/qrEncil"
   }
 }
