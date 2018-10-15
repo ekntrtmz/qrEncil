@@ -12,10 +12,14 @@
     "stencil"
   ],
   "author": "ekntrtmz",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "convert-svg-to-png": "^0.4.0",
     "fs": "0.0.1-security",
     "magic-qr-code": "^1.0.3"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ekntrtmz/qrEncil"
   }
 }
