@@ -3,14 +3,15 @@
 Make your QR codes stencilproof. Generates svg and png from string input.
 
 ## Getting Started
+Install via npm
 
 ```
-npm i
+npm i qrencil
 ```
+Use in your app
 
 ```javascript
-//  If calling from external file
-const {qrEncil} = require('./index.js');
+const {qrEncil} = require('qrencil');
 
 let qrContent = "Some content here";
 
@@ -18,13 +19,12 @@ let qrContent = "Some content here";
 qrEncil(qrContent);
 ```
 
-## Note
-This repositoriy will be the source for a npm module within npm registry.
-
+## To Do
+Optimize svg output. Add custom params.
 
 ## Authors
 
-* **ekntrtmz** - *Initial work* - [on github](https://github.com/ekntrtmz)
+* **ekntrtmz** [on github](https://github.com/ekntrtmz)
 
 
 ## License
