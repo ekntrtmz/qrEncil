@@ -1,6 +1,6 @@
 # qrEncil
 
-Make your QR codes stencilproof. Generates svg and png from string input.
+Make your QR codes [stencilproof](http://www.fredtrotter.com/2011/03/02/qr-code-stencils-problem/). Generates svg and png from string input.
 
 ## Getting Started
 Install via npm
