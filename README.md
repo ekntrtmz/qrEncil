@@ -20,7 +20,9 @@ qrEncil(qrContent);
 ```
 
 ## To Do
-Optimize svg output. Add custom params.
+* Optimize svg output
+* Add custom params
+* Find lightweight alternative for PNG generation.
 
 ## Authors
 
