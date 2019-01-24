@@ -8,7 +8,12 @@ Install via npm
 ```bash
 $ npm i qrencil
 ```
-Use in your app
+Create your application file `index.js`:
+```bash
+$ touch index.js
+```
+
+And insert your prefered content:
 
 ```javascript
 const {qrEncil} = require('qrencil');
