@@ -18,6 +18,11 @@ let qrContent = "Some content here";
 //  Outputs .svg and .png file
 qrEncil(qrContent);
 ```
+Finally run the script
+
+```javascript
+node index.js
+```
 
 ## To Do
 * Optimize svg output
