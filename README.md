@@ -5,8 +5,8 @@ Make your QR codes [stencilproof](http://www.fredtrotter.com/2011/03/02/qr-code-
 ## Getting Started
 Install via npm
 
-```
-npm i qrencil
+```bash
+$ npm i qrencil
 ```
 Use in your app
 
@@ -20,8 +20,8 @@ qrEncil(qrContent);
 ```
 Finally run the script
 
-```javascript
-node index.js
+```bash
+$ node index.js
 ```
 
 ## To Do
